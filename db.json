@@ -1,0 +1,40 @@
+{
+    "clientes": [
+      {
+        "id": "a90ca532-cac2-4f6e-8cdc-9a7cba1c9323",
+        "nome": "Ana Paula",
+        "cpf": "123.456.789-00",
+        "telefone": "(21) 91234-8765",
+        "email": "anapaula@gmail.com"
+      },
+      {
+        "id": "b5d73e7a-3e88-4c3e-92bc-5e2b312a77d8",
+        "nome": "Carlos Silva",
+        "cpf": "987.654.321-00",
+        "telefone": "(11) 98765-4321",
+        "email": "carlossilva@gmail.com"
+      },
+      {
+        "id": "c56b81d9-9c5d-4e45-b1c5-57a3944e3627",
+        "nome": "Maria Oliveira",
+        "cpf": "456.789.123-00",
+        "telefone": "(31) 99876-5432",
+        "email": "mariaoliveira@gmail.com"
+      },
+      {
+        "id": "d8a93427-af84-4e95-9e9a-7308f64f8d44",
+        "nome": "Pedro Santos",
+        "cpf": "654.321.987-00",
+        "telefone": "(51) 98765-1234",
+        "email": "pedrosantos@gmail.com"
+      },
+      {
+        "id": "e97c8261-65c1-4d33-af38-c0b002f05441",
+        "nome": "Juliana Souza",
+        "cpf": "321.654.987-00",
+        "telefone": "(41) 91234-5678",
+        "email": "julianasouza@gmail.com"
+      }
+    ]
+  }
+  
